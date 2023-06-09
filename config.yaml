@@ -1,0 +1,6 @@
+author_email: example@gmail.com
+crawl_x_days_in_past: 30
+repositories:
+  - url: git@github.com:user/repo1.git
+  - url: git@github.com:user/repo2.git
+  - url: git@github.com:user/repo3.git
